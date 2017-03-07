@@ -1,0 +1,16 @@
+C:\Users\DGolemin.INFORMATICS\Desktop\C6\WinF1\WinF1\obj\x86\Debug\WinF1.Form1.resources
+C:\Users\DGolemin.INFORMATICS\Desktop\C6\WinF1\WinF1\obj\x86\Debug\WinF1.Properties.Resources.resources
+C:\Users\DGolemin.INFORMATICS\Desktop\C6\WinF1\WinF1\obj\x86\Debug\WinF1.csproj.GenerateResource.Cache
+C:\Users\DGolemin.INFORMATICS\Desktop\C6\WinF1\WinF1\bin\Debug\WinF1.exe
+C:\Users\DGolemin.INFORMATICS\Desktop\C6\WinF1\WinF1\bin\Debug\WinF1.pdb
+C:\Users\DGolemin.INFORMATICS\Desktop\C6\WinF1\WinF1\obj\x86\Debug\WinF1.exe
+C:\Users\DGolemin.INFORMATICS\Desktop\C6\WinF1\WinF1\obj\x86\Debug\WinF1.pdb
+I:\C6\WinF1\WinF1\obj\x86\Debug\WinF1.exe
+I:\C6\WinF1\WinF1\obj\x86\Debug\WinF1.pdb
+C:\Users\Den\Desktop\WinF1\WinF1\obj\x86\Debug\WinF1.exe
+C:\Users\Den\Desktop\WinF1\WinF1\obj\x86\Debug\WinF1.pdb
+C:\Users\Den\Desktop\WinF1\WinF1\bin\Debug\WinF1.exe
+C:\Users\Den\Desktop\WinF1\WinF1\bin\Debug\WinF1.pdb
+C:\Users\Den\Desktop\WinF1\WinF1\obj\x86\Debug\WinF1.Form1.resources
+C:\Users\Den\Desktop\WinF1\WinF1\obj\x86\Debug\WinF1.Properties.Resources.resources
+C:\Users\Den\Desktop\WinF1\WinF1\obj\x86\Debug\WinF1.csproj.GenerateResource.Cache
